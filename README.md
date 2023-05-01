@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Son Suha
+I love ⚡_electronic gadgets_⚡ overall. 
+
+
 - 🌱 I’m currently learning ...
 * python
 * django
