@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 <!--
 **SonsuGit/SonsuGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm __Son Suha__.
-
-I love _⚡electronic gadgets⚡_ overall. 
-
+I'm noob on this kind of thing so please be kind to me :pleading_face: 
 
 - 🌱 I’m currently learning ...
 * _python_
