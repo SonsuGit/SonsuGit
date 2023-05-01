@@ -24,4 +24,4 @@ I love ⚡electronic gadgets⚡ overall.
 * some backend stuff...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonsuGit&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonsuGit&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
