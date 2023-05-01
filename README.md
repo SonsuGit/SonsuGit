@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 I'm __Son Suha__.
 
 I love _⚡electronic gadgets⚡_ overall. 
 
 
 - 🌱 I’m currently learning ...
-* python
-* django
-* some backend stuff...
+* _python
+* _django
+* _some backend stuff...
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonsuGit&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
