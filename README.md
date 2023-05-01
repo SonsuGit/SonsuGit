@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm __Son Suha__.
-I'm noob on this kind of thing so please be kind to me :pleading_face: 
+I'm noob on this kind of thing so please be kind to me :pleading_face: jk
 
 - 🌱 I’m currently learning ...
 * _python_
