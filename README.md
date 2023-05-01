@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 * python
 * django
 * some backend stuff...
+..
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonsuGit&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
