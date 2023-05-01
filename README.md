@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Son Suha
-I love ⚡_electronic gadgets_⚡ overall. 
+I love ⚡electronic gadgets⚡ overall. 
 
 
 - 🌱 I’m currently learning ...
