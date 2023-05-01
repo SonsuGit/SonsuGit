@@ -20,7 +20,7 @@ I'm noob on this kind of thing so please be kind to me :pleading_face:
 
 jk
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 * _python_
 * _django_
 * _some backend stuff..._
