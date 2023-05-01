@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Son Suha
-I love ⚡electronic gadgets⚡ overall. 
+I'm __Son Suha__.
+
+I love _⚡electronic gadgets⚡_ overall. 
 
 
 - 🌱 I’m currently learning ...
