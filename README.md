@@ -23,9 +23,7 @@ jk
 🌱 I’m currently learning ...
 * _python_
 * _django_
-* _some backend stuff..._
-
-
+* _some backend stuff..._  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonsuGit&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
