@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <center>I'm __Son Suha__.</center>
+<center>I'm __Son Suha__.</center>
 I'm noob on this kind of thing so please be kind to me :pleading_face:
 
 jk
